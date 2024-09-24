@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashM246
 - 👀 I’m interested in AI/ML and Data Science
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently pursuing my Masters in Computer Science - Artificial Intelligence at University of Southern California
 - 💞️ I’m looking to collaborate on any projects with the domain in my skillset
 - 📫 Feel free to contact me!
 
